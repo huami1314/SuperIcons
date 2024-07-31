@@ -1,0 +1,41 @@
+
+/*
+  Localizable.strings
+  SuperIcons
+
+  Created by huami on 2024/7/31.
+  
+*/
+
+/* ContentView.swift */
+"Search..." = "Search...";
+"SuperIcons" = "SuperIcons";
+"Select Action" = "Select Action";
+"Change Icon" = "Change Icon";
+"Restore Icon" = "Restore Icon";
+"Error selecting file: %@" = "Error selecting file: %@";
+"SuperIcons v1.0 (1) ©️ 2024" = "SuperIcons v1.0 (1) ©️ 2024";
+"Get Repository" = "Get Repository";
+
+/* MyAction.swift */
+"Icon change successful" = "Icon change successful";
+"Icon restore successful" = "Icon restore successful";
+"Failed to change icon" = "Failed to change icon";
+"Failed to restore icon" = "Failed to restore icon";
+"An unexpected error occurred" = "An unexpected error occurred";
+
+/* FooterView.swift */
+"SuperIcons v1.0 (1) ©️ 2024" = "SuperIcons v1.0 (1) ©️ 2024";
+"Get Repository" = "Get Repository";
+
+/* MyAction.swift additional */
+"Unable to read Info.plist" = "Unable to read Info.plist";
+"Unable to write Info.plist" = "Unable to write Info.plist";
+"Error" = "Error";
+"Success" = "Success";
+"Operation successful. Please rebuild the icon cache." = "Operation successful. Please rebuild the icon cache.";
+"Operation failed" = "Operation failed";
+"No backup found. Please change the icon before attempting to restore." = "No backup found. Please change the icon before attempting to restore.";
+"OK" = "OK";
+
+"Developed by huami." = "Developed by huami.";
