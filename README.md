@@ -1,5 +1,7 @@
 # SuperIcons
 
+[EN_Us README](README_EN.md)
+
 SuperIcons 是一款用于修改 TrollStore 安装应用图标的工具，它可以替换或还原支持的应用图标。
 
 ## 许可证
